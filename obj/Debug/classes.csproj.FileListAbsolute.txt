@@ -1,0 +1,5 @@
+C:\Users\is-st\Desktop\ЛР2\classes\bin\Debug\classes.exe
+C:\Users\is-st\Desktop\ЛР2\classes\bin\Debug\classes.pdb
+C:\Users\is-st\Desktop\ЛР2\classes\obj\Debug\classes.csprojResolveAssemblyReference.cache
+C:\Users\is-st\Desktop\ЛР2\classes\obj\Debug\classes.exe
+C:\Users\is-st\Desktop\ЛР2\classes\obj\Debug\classes.pdb
